@@ -1,0 +1,26 @@
+{
+  "Curatenie" : [ {
+    "_title" : "Curatenie",
+    "_description" : "Trebuie sa dau ce aspiratorul",
+    "_priority" : 4,
+    "_deadline" : [ 2025, 1, 15 ],
+    "_isCompleted" : false,
+    "_type" : "simple"
+  }, {
+    "_title" : "Curatenie",
+    "_description" : "Trebuie sa duc gunoiul",
+    "_priority" : 3,
+    "_deadline" : [ 2025, 2, 12 ],
+    "_isCompleted" : false,
+    "_type" : "simple"
+  } ],
+  "Proiect" : [ {
+    "_title" : "Proiect",
+    "_description" : "Trebuie sa finalizez proiectul urgent",
+    "_priority" : 5,
+    "_deadline" : [ 2025, 1, 22 ],
+    "_isCompleted" : false,
+    "_type" : "work",
+    "_workSpace" : "Departament IT"
+  } ]
+}
