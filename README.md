@@ -1,2 +1,2 @@
 # Task-Organization
-Am realizat o aplicație pentru gestionarea ușuară a task-urilor.
+I made an application in java for easy task management.
